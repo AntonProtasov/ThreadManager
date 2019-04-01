@@ -1,0 +1,16 @@
+C:\Projects\ThreadManager\ThreadManager\bin\Debug\ThreadManager.exe.config
+C:\Projects\ThreadManager\ThreadManager\bin\Debug\ThreadManager.exe
+C:\Projects\ThreadManager\ThreadManager\bin\Debug\ThreadManager.pdb
+C:\Projects\ThreadManager\ThreadManager\obj\Debug\ThreadManager.csprojAssemblyReference.cache
+C:\Projects\ThreadManager\ThreadManager\obj\Debug\MainWindow.baml
+C:\Projects\ThreadManager\ThreadManager\obj\Debug\MainWindow.g.cs
+C:\Projects\ThreadManager\ThreadManager\obj\Debug\App.g.cs
+C:\Projects\ThreadManager\ThreadManager\obj\Debug\ThreadManager_MarkupCompile.cache
+C:\Projects\ThreadManager\ThreadManager\obj\Debug\ThreadManager.g.resources
+C:\Projects\ThreadManager\ThreadManager\obj\Debug\ThreadManager.Properties.Resources.resources
+C:\Projects\ThreadManager\ThreadManager\obj\Debug\ThreadManager.csproj.GenerateResource.cache
+C:\Projects\ThreadManager\ThreadManager\obj\Debug\ThreadManager.csproj.CoreCompileInputs.cache
+C:\Projects\ThreadManager\ThreadManager\obj\Debug\ThreadManager.exe
+C:\Projects\ThreadManager\ThreadManager\obj\Debug\ThreadManager.pdb
+C:\Projects\ThreadManager\ThreadManager\obj\Debug\ThreadManager_MarkupCompile.lref
+C:\Projects\ThreadManager\ThreadManager\obj\Debug\App.baml

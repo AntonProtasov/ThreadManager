@@ -1,0 +1,26 @@
+﻿<Window x:Class="ThreadManager.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="Throw Manager App"
+        Height="450"
+        Width="800">
+
+    <ScrollViewer VerticalScrollBarVisibility="Auto">
+        <StackPanel Orientation="Vertical">
+            <Button Command="{Binding StartCommand}" 
+                Content="Старт"
+                Height="40"
+                Width="Auto"/>
+
+            <Button Command="{Binding StopCommand}" 
+                Content="Стоп"
+                Height="40"
+                Width="Auto"/>
+
+            <DataGrid ItemsSource="{Binding Records}"/>
+        </StackPanel>
+    </ScrollViewer>
+</Window>
